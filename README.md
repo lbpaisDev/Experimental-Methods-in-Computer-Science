@@ -1,3 +1,3 @@
 ### Experimental Methods in Computer Science
 
-Refer to the document "MEI Assignment.pdf" for details. 
+Please refer to the document "MEI Assignment.pdf" for details. 
